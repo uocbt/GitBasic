@@ -5,7 +5,10 @@
 
 int main()
 {
-    int a = 0;
+    int a = 000+  44444;
+    int b = 9393939  + 10;// comit
     int b = 10;
+    int a = 10;
+    printf("uocbt this is new changes");
     return 0;
 }
