@@ -1,4 +1,5 @@
-// uocbt
+// hello
+// uocbt. This is comment from other
 #include <stdio.h>
 
 int main()
