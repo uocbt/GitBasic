@@ -5,12 +5,7 @@
 
 int main()
 {
-    int a = 100 + 20 + 10 + 4000;
-    int c = 20+ 4000;
-    int b = 2 + 1+ 23;
-
-    printf("uocbt -add new inform");
-
-    printf("uocbt this is new changes");
+    int a = 0;
+    int b = 10;
     return 0;
 }
