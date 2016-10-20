@@ -5,8 +5,8 @@
 
 int main()
 {
-    int a = 100 + 20;
-    int b = 2;
+    int a = 100 + 20 + 10;
+    int b = 2 + 1;
 
     printf("uocbt");
     return 0;
