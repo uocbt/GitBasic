@@ -5,7 +5,7 @@
 
 int main()
 {
-    int a = 20;
+    int a = 100 + 20;
     int b = 2;
 
     printf("uocbt");
